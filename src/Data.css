@@ -1,0 +1,20 @@
+.product .ProductItem #content #cont1 .thumbnail .caption #price{
+ display: flex;
+}
+.product .ProductItem #content #cont1 .thumbnail .caption #price h4{
+    margin-left: 20%;
+}
+.product .ProductItem #content #cont1 .thumbnail .caption #price #pri{
+    color: red;
+}
+.product .ProductItem #content #cont1 .thumbnail .caption #price #old{
+    color: gray;
+}
+.product .ProductItem #content #cont1 .thumbnail img{
+    width: 200px;
+    height: 250px;
+}
+.product{
+    width: 1000px;
+    margin-left: 10%;
+}
